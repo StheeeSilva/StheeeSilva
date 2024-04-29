@@ -1,9 +1,4 @@
-### Hi there 👋
-
-<!--
-**StheeeSilva/StheeeSilva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+### Hello, my name is Stheffany or Sthe if you know me⚡ 
 
 - 🌱 I’m currently studying for the entrance exam
 - 🤔 I’m looking for help with studies
@@ -11,4 +6,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: 00001105135470sp@al.educacao.sp.gov.br
 - 😄 Pronouns: she/he
 - ⚡ Fun fact: I am deaf!
---!>
